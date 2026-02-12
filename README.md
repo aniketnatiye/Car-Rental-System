@@ -24,15 +24,13 @@ Open the project in your IDE or terminal
 Compile the program: javac Main.java
 Run the program: java Main
 Follow the on-screen menu to rent or return cars
-Sample Menu
-===== Car Rental System =====
 
+Sample Menu
+
+===== Car Rental System =====
 Rent a Car
 Return a Car
 Exit Enter your choice:
+
 Author
 Developed by: Aniket Natiye
-
-
-Footer
-© 202
