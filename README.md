@@ -32,10 +32,11 @@ Follow the on-screen menu to rent or return cars
 
 Sample Menu
 
-===== Car Rental System =====
-Rent a Car
-Return a Car
-Exit Enter your choice:
+ ===== Car Rental System =====
+
+ Rent a Car
+ Return a Car
+ Exit Enter your choice:
 
 Author
 Developed by: Aniket Natiye
